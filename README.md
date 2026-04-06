@@ -3,10 +3,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/vitorrosado">
     <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://halo.atual-it.com.br/home">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Halo%20Service%20Desk-5C2D91?style=for-the-badge&logo=briefcase&logoColor=white" alt="Halo PSA" />
-  </a>
 </p>
 
 ### 👨‍💻 Sobre Mim
